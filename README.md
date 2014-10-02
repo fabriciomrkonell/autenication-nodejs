@@ -1,4 +1,1 @@
-autenication-nodejs
-===================
-
-Autenticação com MongoDB + NodeJS + Passport.
+Projeto de referência <a href="https://github.com/scotch-io/easy-node-authentication">aqui</a>.
